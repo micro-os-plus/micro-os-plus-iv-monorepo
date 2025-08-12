@@ -7,4 +7,10 @@ Git repositories. However, they are organised together here as submodules for co
 
 Maintaining separate projects is preferred, as it facilitates easier testing and enables the creation of distinct sub-sites, each with its own URL.
 
+## Getting the project
+
+```sh
+git clone --recurse-submodules https://github.com/micro-os-plus/micro-os-plus-iv-monorepo.git micro-os-plus-iv-monorepo.git
+```
+
 (to be continued)
