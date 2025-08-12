@@ -1,0 +1,6 @@
+[submodule "3rd-party/segger/segger-rtt-xpack"]
+	path = 3rd-party/segger/segger-rtt-xpack
+	url = https://github.com/xpack-3rd-party/segger-rtt-xpack.git
+[submodule "3rd-party/segger/segger-system-view-xpack"]
+	path = 3rd-party/segger/segger-system-view-xpack
+	url = https://github.com/xpack-3rd-party/segger-system-view-xpack.git
