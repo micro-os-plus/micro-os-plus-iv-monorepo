@@ -4,3 +4,45 @@
 [submodule "3rd-party/segger/segger-system-view-xpack"]
 	path = 3rd-party/segger/segger-system-view-xpack
 	url = https://github.com/xpack-3rd-party/segger-system-view-xpack.git
+[submodule "core/utils-lists-xpack"]
+	path = core/utils-lists-xpack
+	url = https://github.com/micro-os-plus/utils-lists-xpack.git
+[submodule "testing/micro-test-plus-xpack"]
+	path = testing/micro-test-plus-xpack
+	url = https://github.com/micro-os-plus/micro-test-plus-xpack.git
+[submodule "diag/diag-trace-xpack"]
+	path = diag/diag-trace-xpack
+	url = https://github.com/micro-os-plus/diag-trace-xpack.git
+[submodule "nonportable/architecture-synthetic-posix-xpack"]
+	path = nonportable/architecture-synthetic-posix-xpack
+	url = https://github.com/micro-os-plus/architecture-synthetic-posix-xpack.git
+[submodule "nonportable/architecture-cortexm-xpack"]
+	path = nonportable/architecture-cortexm-xpack
+	url = https://github.com/micro-os-plus/architecture-cortexm-xpack.git
+[submodule "nonportable/devices-qemu-cortexm-xpack"]
+	path = nonportable/devices-qemu-cortexm-xpack
+	url = https://github.com/micro-os-plus/devices-qemu-cortexm-xpack.git
+[submodule "nonportable/architecture-riscv-xpack"]
+	path = nonportable/architecture-riscv-xpack
+	url = https://github.com/micro-os-plus/architecture-riscv-xpack.git
+[submodule "nonportable/devices-qemu-riscv-xpack"]
+	path = nonportable/devices-qemu-riscv-xpack
+	url = https://github.com/micro-os-plus/devices-qemu-riscv-xpack.git
+[submodule "nonportable/architecture-aarch32-xpack"]
+	path = nonportable/architecture-aarch32-xpack
+	url = https://github.com/micro-os-plus/architecture-aarch32-xpack.git
+[submodule "nonportable/devices-qemu-aarch32-xpack"]
+	path = nonportable/devices-qemu-aarch32-xpack
+	url = https://github.com/micro-os-plus/devices-qemu-aarch32-xpack.git
+[submodule "core/startup-xpack"]
+	path = core/startup-xpack
+	url = https://github.com/micro-os-plus/startup-xpack.git
+[submodule "core/semihosting-xpack"]
+	path = core/semihosting-xpack
+	url = https://github.com/micro-os-plus/semihosting-xpack.git
+[submodule "3rd-party/arm/arm-cmsis-core-xpack"]
+	path = 3rd-party/arm/arm-cmsis-core-xpack
+	url = https://github.com/xpack-3rd-party/arm-cmsis-core-xpack.git
+[submodule "helpers/build-helper-xpack"]
+	path = helpers/build-helper-xpack
+	url = https://github.com/micro-os-plus/build-helper-xpack.git
