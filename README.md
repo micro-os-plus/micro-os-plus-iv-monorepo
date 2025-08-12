@@ -39,16 +39,16 @@ git submodule add https://github.com/micro-os-plus/micro-test-plus-xpack.git tes
 mkdir -p helpers
 git submodule add https://github.com/micro-os-plus/build-helper-xpack.git helpers/build-helper-xpack
 
-mkdir -p nonportable
-git submodule add https://github.com/micro-os-plus/architecture-synthetic-posix-xpack.git nonportable/architecture-synthetic-posix-xpack
-git submodule add https://github.com/micro-os-plus/architecture-cortexm-xpack.git nonportable/architecture-cortexm-xpack
-git submodule add https://github.com/micro-os-plus/devices-qemu-cortexm-xpack.git nonportable/devices-qemu-cortexm-xpack
-git submodule add https://github.com/micro-os-plus/architecture-riscv-xpack.git nonportable/architecture-riscv-xpack
-git submodule add https://github.com/micro-os-plus/devices-qemu-riscv-xpack.git nonportable/devices-qemu-riscv-xpack
-git submodule add https://github.com/micro-os-plus/architecture-aarch32-xpack.git nonportable/architecture-aarch32-xpack
-git submodule add https://github.com/micro-os-plus/devices-qemu-aarch32-xpack.git nonportable/devices-qemu-aarch32-xpack
-git submodule add https://github.com/micro-os-plus/architecture-aarch64-xpack.git nonportable/architecture-aarch64-xpack
-git submodule add https://github.com/micro-os-plus/devices-qemu-aarch64-xpack.git nonportable/devices-qemu-aarch64-xpack
+mkdir -p targets
+git submodule add https://github.com/micro-os-plus/architecture-synthetic-posix-xpack.git targets/architecture-synthetic-posix-xpack
+git submodule add https://github.com/micro-os-plus/architecture-cortexm-xpack.git targets/architecture-cortexm-xpack
+git submodule add https://github.com/micro-os-plus/devices-qemu-cortexm-xpack.git targets/devices-qemu-cortexm-xpack
+git submodule add https://github.com/micro-os-plus/architecture-riscv-xpack.git targets/architecture-riscv-xpack
+git submodule add https://github.com/micro-os-plus/devices-qemu-riscv-xpack.git targets/devices-qemu-riscv-xpack
+git submodule add https://github.com/micro-os-plus/architecture-aarch32-xpack.git targets/architecture-aarch32-xpack
+git submodule add https://github.com/micro-os-plus/devices-qemu-aarch32-xpack.git targets/devices-qemu-aarch32-xpack
+git submodule add https://github.com/micro-os-plus/architecture-aarch64-xpack.git targets/architecture-aarch64-xpack
+git submodule add https://github.com/micro-os-plus/devices-qemu-aarch64-xpack.git targets/devices-qemu-aarch64-xpack
 
 ```
 

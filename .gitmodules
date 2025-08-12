@@ -13,27 +13,6 @@
 [submodule "diag/diag-trace-xpack"]
 	path = diag/diag-trace-xpack
 	url = https://github.com/micro-os-plus/diag-trace-xpack.git
-[submodule "nonportable/architecture-synthetic-posix-xpack"]
-	path = nonportable/architecture-synthetic-posix-xpack
-	url = https://github.com/micro-os-plus/architecture-synthetic-posix-xpack.git
-[submodule "nonportable/architecture-cortexm-xpack"]
-	path = nonportable/architecture-cortexm-xpack
-	url = https://github.com/micro-os-plus/architecture-cortexm-xpack.git
-[submodule "nonportable/devices-qemu-cortexm-xpack"]
-	path = nonportable/devices-qemu-cortexm-xpack
-	url = https://github.com/micro-os-plus/devices-qemu-cortexm-xpack.git
-[submodule "nonportable/architecture-riscv-xpack"]
-	path = nonportable/architecture-riscv-xpack
-	url = https://github.com/micro-os-plus/architecture-riscv-xpack.git
-[submodule "nonportable/devices-qemu-riscv-xpack"]
-	path = nonportable/devices-qemu-riscv-xpack
-	url = https://github.com/micro-os-plus/devices-qemu-riscv-xpack.git
-[submodule "nonportable/architecture-aarch32-xpack"]
-	path = nonportable/architecture-aarch32-xpack
-	url = https://github.com/micro-os-plus/architecture-aarch32-xpack.git
-[submodule "nonportable/devices-qemu-aarch32-xpack"]
-	path = nonportable/devices-qemu-aarch32-xpack
-	url = https://github.com/micro-os-plus/devices-qemu-aarch32-xpack.git
 [submodule "core/startup-xpack"]
 	path = core/startup-xpack
 	url = https://github.com/micro-os-plus/startup-xpack.git
@@ -46,3 +25,30 @@
 [submodule "helpers/build-helper-xpack"]
 	path = helpers/build-helper-xpack
 	url = https://github.com/micro-os-plus/build-helper-xpack.git
+[submodule "targets/architecture-synthetic-posix-xpack"]
+	path = targets/architecture-synthetic-posix-xpack
+	url = https://github.com/micro-os-plus/architecture-synthetic-posix-xpack.git
+[submodule "targets/architecture-cortexm-xpack"]
+	path = targets/architecture-cortexm-xpack
+	url = https://github.com/micro-os-plus/architecture-cortexm-xpack.git
+[submodule "targets/devices-qemu-cortexm-xpack"]
+	path = targets/devices-qemu-cortexm-xpack
+	url = https://github.com/micro-os-plus/devices-qemu-cortexm-xpack.git
+[submodule "targets/architecture-riscv-xpack"]
+	path = targets/architecture-riscv-xpack
+	url = https://github.com/micro-os-plus/architecture-riscv-xpack.git
+[submodule "targets/devices-qemu-riscv-xpack"]
+	path = targets/devices-qemu-riscv-xpack
+	url = https://github.com/micro-os-plus/devices-qemu-riscv-xpack.git
+[submodule "targets/architecture-aarch32-xpack"]
+	path = targets/architecture-aarch32-xpack
+	url = https://github.com/micro-os-plus/architecture-aarch32-xpack.git
+[submodule "targets/devices-qemu-aarch32-xpack"]
+	path = targets/devices-qemu-aarch32-xpack
+	url = https://github.com/micro-os-plus/devices-qemu-aarch32-xpack.git
+[submodule "targets/architecture-aarch64-xpack"]
+	path = targets/architecture-aarch64-xpack
+	url = https://github.com/micro-os-plus/architecture-aarch64-xpack.git
+[submodule "targets/devices-qemu-aarch64-xpack"]
+	path = targets/devices-qemu-aarch64-xpack
+	url = https://github.com/micro-os-plus/devices-qemu-aarch64-xpack.git
