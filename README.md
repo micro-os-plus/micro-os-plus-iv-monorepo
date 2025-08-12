@@ -13,6 +13,9 @@ Maintaining separate projects is preferred, as it facilitates easier testing and
 git clone --recurse-submodules https://github.com/micro-os-plus/micro-os-plus-iv-monorepo.git micro-os-plus-iv-monorepo.git
 ```
 
+## Admin
+
+The submodules were added with the following commands:
 
 ```sh
 mkdir -p 3rd-party/segger
