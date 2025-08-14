@@ -2,9 +2,9 @@
 
 This repository provides the **µOS++ IVe Suite**, a set of projects that together form the **fourth edition** of µOS++.
 
-Each project within the suite is maintained in its own Git repository and is included here as a submodule for unified access and streamlined management.
+Each project within the suite is maintained in its own Git repository and is included here as a submodule for unified access.
 
-This approach enables more effective testing and supports the development of distinct web sub-sites, each with its own URL, while ensuring all components work together as an integrated suite.
+Compared to a monorepo, this approach enables more effective testing and supports the development of distinct web sub-sites, each with its own URL.
 
 ## Getting the Sources
 
